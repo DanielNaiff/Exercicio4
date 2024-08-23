@@ -1,6 +1,5 @@
 package classes.concretas;
 
-import classes.abstratas.AnimalAB;
 import classes.abstratas.AnimalTerrestreAB;
 
 public class Gato extends AnimalTerrestreAB {
