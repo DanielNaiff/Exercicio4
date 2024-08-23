@@ -29,4 +29,3 @@ public class Pombo extends AnimalVoadorAB {
         System.out.println("Pombo voou a uma altura de " + altura + " metros.");
     }
 }
-
