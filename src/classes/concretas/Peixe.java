@@ -27,6 +27,6 @@ public class Peixe extends AnimalMarinhoAB {
 
     @Override
     public void moverse(int distancia) {
-        System.out.println("O Peixe se moveu " + distancia + " metros no solo.");
+        nadar(distancia);
     }
 }
